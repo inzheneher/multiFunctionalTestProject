@@ -1,4 +1,4 @@
-package proxy;
+package patterns.proxy;
 
 public class TestTwoProxy implements TestTwoInterface {
 
