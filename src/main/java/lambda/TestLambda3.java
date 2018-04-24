@@ -1,5 +1,5 @@
 package lambda;
 
-public interface TestLambda3 {
-    int test(int a);
+public interface TestLambda3<T> {
+    T test(T a);
 }
